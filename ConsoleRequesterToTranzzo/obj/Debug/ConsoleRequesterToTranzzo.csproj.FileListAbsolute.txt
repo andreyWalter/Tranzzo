@@ -1,0 +1,12 @@
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\ConsoleRequesterToTranzzo.exe.config
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\ConsoleRequesterToTranzzo.exe
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\ConsoleRequesterToTranzzo.pdb
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\FluentJson.dll
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\Newtonsoft.Json.dll
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\RestSharp.dll
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\System.ValueTuple.dll
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\Newtonsoft.Json.xml
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\bin\Debug\System.ValueTuple.xml
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\obj\Debug\ConsoleRequesterToTranzzo.csprojResolveAssemblyReference.cache
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\obj\Debug\ConsoleRequesterToTranzzo.exe
+c:\users\mycredit\documents\visual studio 2015\Projects\ConsoleRequesterToTranzzo\ConsoleRequesterToTranzzo\obj\Debug\ConsoleRequesterToTranzzo.pdb
